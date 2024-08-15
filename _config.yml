@@ -1,5 +1,0 @@
-theme: jekyll-theme-cayman
-title: Cambridge RSE
-description: Research Software Engineering at the University of Cambridge
-
-include: ['_pages']
